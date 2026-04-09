@@ -67,8 +67,13 @@ Plot magnitude and phase response.
 7)Verify that the designed filter meets the given constraints.
 
 # MATLAB CODE :
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a91f6ab-5472-43f3-8548-9c9849a1b45c" />
+<img width="1080" height="352" alt="image" src="https://github.com/user-attachments/assets/8bde3226-e640-4cf6-b092-76d1433e05a7" />
 
 # OUTPUT GRAPH :
+![WhatsApp Image 2026-04-08 at 12 21 53 PM](https://github.com/user-attachments/assets/836163d0-600c-4347-8933-5bea2b345623)
+
 
 # RESULT:
 A digital Chebyshev low pass filter satisfying the given specifications was successfully designed using the bilinear transformation method and its frequency response was verified using MATLAB.
+
