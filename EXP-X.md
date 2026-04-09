@@ -31,10 +31,11 @@ brain injuries. MATLAB provides efficient tools for signal visualization and pro
 6.	Display the result
 
 # MAT LAB CODE :
+<img width="972" height="640" alt="image" src="https://github.com/user-attachments/assets/47a7a6b3-22f3-4a34-93cc-1ce7c71d50f5" />
 
 # OUTPUT GRAPH :
+![WhatsApp Image 2026-04-08 at 12 23 16 PM](https://github.com/user-attachments/assets/fcbd0b3e-4dfb-46ff-ae75-9f64bd4a1481)
+
 
 # RESULT :
 The EEG signal was successfully analyzed and its waveform was visualized using MATLAB
-
-
