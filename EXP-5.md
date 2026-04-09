@@ -63,8 +63,12 @@ The steps involved are:
 7.	Verify whether the filter satisfies the given constraints.
 
 # MATLAB CODE :
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4e1c68ec-791b-40cf-b2e8-05acd6b9e883" />
+<img width="1079" height="438" alt="image" src="https://github.com/user-attachments/assets/66d24fe3-6df2-44dd-859b-a316c8f938b6" />
 
 # OUTPUT GRAPH :
+![WhatsApp Image 2026-04-08 at 12 21 27 PM](https://github.com/user-attachments/assets/e259e527-d6c6-4773-84a4-1f2bf3e00440)
+
 
 # RESULT:
 A digital Butterworth low pass filter satisfying the given constraints was successfully designed using the bilinear transformation method and its frequency response was verified using MATLAB.
