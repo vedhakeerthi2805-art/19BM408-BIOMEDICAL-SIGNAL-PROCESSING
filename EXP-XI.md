@@ -30,7 +30,8 @@ Spectral analysis helps in identifying EEG rhythms such as alpha and beta waves,
 <img width="1079" height="718" alt="image" src="https://github.com/user-attachments/assets/4c2a1a1a-7215-4b0c-abb6-6e368057d635" />
 
 # OUTPUT GRAPH :
-![WhatsApp Image 2026-04-08 at 12 23 41 PM](https://github.com/user-attachments/assets/5d5b57ec-005e-4121-9ff9-d510a411ac39)
+![WhatsApp Image 2026-04-10 at 6 49 17 PM](https://github.com/user-attachments/assets/a8552c3d-4326-41b2-bd7b-026e69409b61)
+
 
 
 # RESULT :
