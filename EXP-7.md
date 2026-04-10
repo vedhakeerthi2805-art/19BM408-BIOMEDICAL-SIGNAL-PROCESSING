@@ -41,7 +41,8 @@ h(n)=h_d (n)⋅w(n)
 <img width="1079" height="828" alt="image" src="https://github.com/user-attachments/assets/1bfb34b5-7a03-46c2-87c9-41eeb853305e" />
 
 # OUTPUT GRAPH :
-![WhatsApp Image 2026-04-08 at 12 22 17 PM](https://github.com/user-attachments/assets/79b0b878-6904-4806-b509-02792a7d4e1f)
+![WhatsApp Image 2026-04-10 at 6 48 07 PM](https://github.com/user-attachments/assets/9741d9b6-ba82-4f84-9d35-4d03d2ada480)
+
 
 # RESULT :
 The FIR filter was designed using Rectangular window.
