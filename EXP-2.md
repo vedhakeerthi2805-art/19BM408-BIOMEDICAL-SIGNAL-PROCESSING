@@ -32,7 +32,8 @@ Where:
 <img width="982" height="1600" alt="image" src="https://github.com/user-attachments/assets/f638bf29-b15e-4371-81ae-d4f9b3b3f796" />
 
 # OUTPUT GRAPH :
-![WhatsApp Image 2026-04-08 at 12 20 13 PM](https://github.com/user-attachments/assets/25bf4cda-1ac1-4354-b3ae-14e6aa5dced8)
+![WhatsApp Image 2026-04-10 at 6 46 56 PM](https://github.com/user-attachments/assets/5b292135-5251-4daf-ab58-37fdcbe18856)
+
 
 
 # Result :
