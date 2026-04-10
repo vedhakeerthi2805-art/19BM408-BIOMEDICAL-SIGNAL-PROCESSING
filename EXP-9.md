@@ -34,7 +34,8 @@ h(n)=h_d (n)⋅w(n)
 <img width="1080" height="953" alt="image" src="https://github.com/user-attachments/assets/2de72c2a-46dd-48df-9c28-7173d2b97be7" />
 
 # OUTPUT GRAPH :
-![WhatsApp Image 2026-04-08 at 12 22 59 PM](https://github.com/user-attachments/assets/66e33c29-69f1-4336-88df-553e24b42dfa)
+![WhatsApp Image 2026-04-10 at 6 48 36 PM](https://github.com/user-attachments/assets/c7f91706-24e6-4a1d-8d0c-e9e96b892ca5)
+
 
 
 # RESULT :
