@@ -52,7 +52,8 @@ Key Features of DIT-FFT :
 <img width="969" height="1600" alt="image" src="https://github.com/user-attachments/assets/c623ff92-8726-4e38-858d-018af1d461d1" />
 
 # OUTPUT GRAPH :
-![WhatsApp Image 2026-04-08 at 12 20 31 PM](https://github.com/user-attachments/assets/836625c3-c9fb-4ea8-8462-10c73561d3f2)
+![WhatsApp Image 2026-04-10 at 6 47 09 PM](https://github.com/user-attachments/assets/7eefdd03-ae6c-47e5-9775-146a2f420dac)
+
 
 
 # RESULT:
