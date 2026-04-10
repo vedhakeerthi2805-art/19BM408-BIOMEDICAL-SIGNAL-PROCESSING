@@ -71,7 +71,8 @@ Plot magnitude and phase response.
 <img width="1080" height="352" alt="image" src="https://github.com/user-attachments/assets/8bde3226-e640-4cf6-b092-76d1433e05a7" />
 
 # OUTPUT GRAPH :
-![WhatsApp Image 2026-04-08 at 12 21 53 PM](https://github.com/user-attachments/assets/836163d0-600c-4347-8933-5bea2b345623)
+![WhatsApp Image 2026-04-10 at 6 47 56 PM](https://github.com/user-attachments/assets/24c04ee4-2212-4a6a-a084-a74f1f6bc078)
+
 
 
 # RESULT:
