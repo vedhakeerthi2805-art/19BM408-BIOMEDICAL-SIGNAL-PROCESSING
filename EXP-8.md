@@ -33,7 +33,8 @@ Where hd(n) is ideal impulse response.
 <img width="1079" height="965" alt="image" src="https://github.com/user-attachments/assets/bfc9054d-c1bc-4e88-b92f-90c66d6aeac4" />
 
 # OUTPUT GRAPH :
-![WhatsApp Image 2026-04-08 at 12 22 34 PM](https://github.com/user-attachments/assets/67b654b6-aa00-4c1c-ad33-beed426985fd)
+![WhatsApp Image 2026-04-10 at 6 48 17 PM](https://github.com/user-attachments/assets/8fee1b6c-4b5c-4e7d-aafa-8eae1bbc9736)
+
 
 
 # RESULT :
