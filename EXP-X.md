@@ -34,7 +34,8 @@ brain injuries. MATLAB provides efficient tools for signal visualization and pro
 <img width="972" height="640" alt="image" src="https://github.com/user-attachments/assets/47a7a6b3-22f3-4a34-93cc-1ce7c71d50f5" />
 
 # OUTPUT GRAPH :
-![WhatsApp Image 2026-04-08 at 12 23 16 PM](https://github.com/user-attachments/assets/fcbd0b3e-4dfb-46ff-ae75-9f64bd4a1481)
+![WhatsApp Image 2026-04-10 at 6 48 47 PM](https://github.com/user-attachments/assets/62b4441c-db72-4e21-9b2a-8c1e9c79fce7)
+
 
 
 # RESULT :
