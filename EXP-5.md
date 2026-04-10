@@ -67,7 +67,8 @@ The steps involved are:
 <img width="1079" height="438" alt="image" src="https://github.com/user-attachments/assets/66d24fe3-6df2-44dd-859b-a316c8f938b6" />
 
 # OUTPUT GRAPH :
-![WhatsApp Image 2026-04-08 at 12 21 27 PM](https://github.com/user-attachments/assets/e259e527-d6c6-4773-84a4-1f2bf3e00440)
+![WhatsApp Image 2026-04-10 at 6 47 42 PM](https://github.com/user-attachments/assets/47145999-a443-48ea-ab97-8415a757e4db)
+
 
 
 # RESULT:
