@@ -54,7 +54,8 @@ Twiddle factors are applied after subtraction
 <img width="658" height="1600" alt="image" src="https://github.com/user-attachments/assets/60af7707-d298-4d09-8f56-29927271e686" />
 
 # OUTPUT GRAPH :
-![WhatsApp Image 2026-04-08 at 12 21 07 PM](https://github.com/user-attachments/assets/001ef725-5b09-40b7-81a5-2ce308f4421c)
+![WhatsApp Image 2026-04-10 at 6 47 28 PM](https://github.com/user-attachments/assets/d9aa9199-de5c-44a3-9bb4-eaf7e8a98294)
+
 
 
 # RESULT :
